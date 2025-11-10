@@ -1,0 +1,26 @@
+{
+    "questions": [
+        "Little interest or pleasure in doing things?",
+        "Feeling down, depressed, or hopeless?",
+        "Trouble falling or staying asleep, or sleeping too much?",
+        "Feeling tired or having little energy?",
+        "Poor appetite or overeating?",
+        "Feeling bad about yourself—or that you are a failure or have let yourself or your family down?",
+        "Trouble concentrating on things, such as reading the newspaper or watching television?",
+        "Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual?",
+        "Thoughts that you would be better off dead, or of hurting yourself in some way?"
+    ],
+    "scale": {
+        "not at all": 0,
+        "several days": 1,
+        "more than half the days": 2,
+        "nearly every day": 3
+    },
+    "interpretation": {
+        "0-4": "Minimal depression (requires no treatment)",
+        "5-9": "Mild depression (suggest watch-and-wait, repeat PHQ-9)",
+        "10-14": "Moderate depression (suggest treatment)",
+        "15-19": "Moderately severe depression (suggest active treatment)",
+        "20-27": "Severe depression (suggest immediate active treatment)"
+    }
+}
